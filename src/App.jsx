@@ -10,7 +10,7 @@ function App() {
       <h1>Germano Ribeiro</h1>
       <Sidebar />
       <MainContent />
-      <InformationContainer/>
+     
     </div>
   );
 }
