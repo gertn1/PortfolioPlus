@@ -10,10 +10,10 @@ import '../styles/components/sidebar.sass';
 const Sidebar = () => {
     return ( <aside id="sidebar">
         <img src={Avatar} alt = 'Germano Ribeiro'></img>
-        <p className="title">Desenvolverdor</p>
+        <p className="title">Desenvolverdor Full Stack</p>
         <SocialNetworks/>
         <InformationContainer/>
-        <a href="" className="btn">
+        <a href="./curriculoGermano.pdf" download="Curriculo_Germano_Ribeiro.pdf" className="btn">
          Downloand Currículo
          </a>
     </aside>

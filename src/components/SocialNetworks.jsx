@@ -5,8 +5,8 @@ import '../styles/components/socialnetworks.sass';
 
 
 const socialNetworks = [
-   { name : 'linkedin', icon: <FaLinkedinIn/> },
-   { name : 'github', icon: <FaGithub/> },
+   { name : 'linkedin', icon: <FaLinkedinIn/>, url: 'https://www.linkedin.com/in/germano-lima-ribeiro-b0b06b231/' },
+   { name: 'github', icon: <FaGithub />, url: 'https://github.com/gertn1' },
    { name : 'instagram', icon: <FaInstagram/> },
 ];
 
