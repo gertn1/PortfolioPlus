@@ -4,7 +4,7 @@ import InformationContainer from './InformationContainer';
 import Avatar from '../img/GermanoLinkdin4.png';
 
 import '../styles/components/sidebar.sass';
-import  Curriculo from '../img/curriculoGermano.pdf';
+import  Curriculo from '../img/curriculo-germano.pdf';
 
 
 
